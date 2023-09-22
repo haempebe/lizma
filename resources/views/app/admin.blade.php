@@ -3,6 +3,7 @@
 
     <div class="page">
         <!-- Navbar -->
+        <div class="wrapper">
         @include('app.staticadmin.header')
         <div class="page-wrapper">
             <!-- Page body -->

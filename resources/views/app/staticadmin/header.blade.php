@@ -1,5 +1,4 @@
-<div>
-    <div class="wrapper">
+
         <!-- Sidebar -->
         <aside id="sidebar">
             <div class="h-100">
@@ -94,21 +93,4 @@
                 </ul>
             </div>
         </aside>
-        <!-- Main Component -->
-        <div class="main">
-            <nav class="navbar navbar-expand px-3 border-bottom">
-                <!-- Button for sidebar toggle -->
-                <button class="btn" type="button" data-bs-theme="dark">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-            </nav>
-            <main class="content px-3 py-2">
-                <div class="container-fluid">
-                    <div class="mb-3">
-                        <h3>Bootstrap Sidebar Tutorial</h3>
-                    </div>
-                </div>
-            </main>
-        </div>
-    </div>
-</div>
+

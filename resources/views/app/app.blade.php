@@ -16,6 +16,8 @@
             @include('app.static.footer')
         </div>
     </div>
+</div>
+</div>
 
     @include('app.inc.footer')
 
